@@ -15,10 +15,14 @@
   - 성능이 높고 상관관계가 낮은 모델끼리 ensemble
 ### REVIEW
 위의 과정을 통해 public score 2위로 마무리했지만 private score에서 41위로 overfitting이 발생했다.</br>
+</br>
 ngboost가 가장 최근에 나온 부스팅 모델이고 당장 성능이 잘 나와서 사용했지만 이 task에선 overfitting이 발생했다. (파라미터 튜닝 부족 + 모델의 특징 예상)</br>
+</br>
 overfitting 방지를 위해 oversampling을 진행했지만 부족했고 데이터 분포도 좀 더 비슷하게 맞추는게 좋았을 것 같다.</br>
+</br>
 데이터가 부족해 cv를 진행하지 않았는데 overfitting방지를 위해 public score에 너무 집착하지 않는 것이 좋을 것 같다.
 
 ### LB
-Public - 2nd
+Public - 2nd</br>
+</br>
 Private - 41th(16%)
