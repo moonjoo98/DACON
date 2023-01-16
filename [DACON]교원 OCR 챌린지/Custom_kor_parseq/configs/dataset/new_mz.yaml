@@ -1,0 +1,5 @@
+# @package _global_
+data:
+  train_dir: new_mz
+  num_workers: 2
+
