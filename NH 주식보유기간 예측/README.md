@@ -9,6 +9,7 @@
 - 2차 자료를 통한 사전조사 진행
 - 외부데이터 활용을 위한 기업 정보 및 재무제표 크롤링 진행
 - 데이터 EDA 후 Features engineering 진행
+#### -> EDA 코드 https://drive.google.com/file/d/1pIiR2ssWV-QgZvlG2mHBMiKR_9pZWT0R/view?usp=share_link
 - modeling
 
 ### REVIEW
